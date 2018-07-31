@@ -1,0 +1,11 @@
+1.	class Stud1{  
+2.	 int id;  
+3.	 String name;  
+4.	  
+5.	 public static void main(String args[]){  
+6.	  Stud1 sd1=new Stud1();  
+7.	  System.out.println(sd1.id);  
+8.	  System.out.println(sd1.name);  
+9.	 }  
+10.	}  
+
